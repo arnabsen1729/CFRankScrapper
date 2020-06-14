@@ -1,0 +1,66 @@
+Codeforces Global Round 7Results:
+
+==================================
+
+		-:CODE IIEST:-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  --------
+  1     641  Virali Vora   vivo
+  2    1437  Prasun Chail  pchail
+  3    2668  Md Azmat Ali  mdazmat9
+
+		-:CODE IIEST (Girls):-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  -------------
+  1     641  Virali Vora   vivo
+  2    9874  Prerna Gupta  ron_weasley27
+
+		-:FIRST YEAR:-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  ---------
+  1    4148  Manish Kundu  manish.17
+  2    5051  Anish De      anishde85
+  3    5356  Rohan Gupta   blue_edge
+
+		-:FIRST YEAR (Girls):-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  -------------
+  1    9874  Prerna Gupta  ron_weasley27
+
+		-:SECOND YEAR:-
+
+#    RANK    NAME    HANDLE
+---  ------  ------  --------
+
+		-:SECOND YEAR (Girls):-
+
+#    RANK    NAME    HANDLE
+---  ------  ------  --------
+
+		-:THIRD YEAR:-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  --------
+  1    2668  Md Azmat Ali  mdazmat9
+
+		-:THIRD YEAR (Girls):-
+
+#    RANK    NAME    HANDLE
+---  ------  ------  --------
+
+		-:FOURTH YEAR:-
+
+  #    RANK  NAME          HANDLE
+---  ------  ------------  --------
+  1     641  Virali Vora   vivo
+  2    1437  Prasun Chail  pchail
+
+		-:FOURTH YEAR (Girls):-
+
+  #    RANK  NAME         HANDLE
+---  ------  -----------  --------
+  1     641  Virali Vora  vivo

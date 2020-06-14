@@ -1,0 +1,430 @@
+{
+    "data": [
+        {
+            "name": "Soumi Sarkar",
+            "year": 1,
+            "gender": "Female",
+            "handle": "cskr19"
+        },
+        {
+            "name": "Arindam Majumder",
+            "year": 1,
+            "gender": "Male",
+            "handle": "i_m_arin"
+        },
+        {
+            "name": "Divya Agrawal",
+            "year": 1,
+            "gender": "Female",
+            "handle": "divyaagrawal_"
+        },
+        {
+            "name": "RICHA RIYA",
+            "year": 1,
+            "gender": "Female",
+            "handle": "richa812"
+        },
+        {
+            "name": "Prerna Gupta",
+            "year": 1,
+            "gender": "Female",
+            "handle": "ron_weasley27"
+        },
+        {
+            "name": "aastha singh",
+            "year": 1,
+            "gender": "Female",
+            "handle": "aasthasingh73"
+        },
+        {
+            "name": "Rekha Sharma",
+            "year": 1,
+            "gender": "Female",
+            "handle": "rekha3004"
+        },
+        {
+            "name": "Komal Shaw",
+            "year": 1,
+            "gender": "Female",
+            "handle": "komal55"
+        },
+        {
+            "name": "Avantika Singh",
+            "year": 1,
+            "gender": "Female",
+            "handle": "Avan1608"
+        },
+        {
+            "name": "Sanandita Das",
+            "year": 1,
+            "gender": "Female",
+            "handle": "sannick01"
+        },
+        {
+            "name": "SWARNALI MONDAL",
+            "year": 1,
+            "gender": "Female",
+            "handle": "swar_am"
+        },
+        {
+            "name": "Vivek Rawat",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Vvkrwt"
+        },
+        {
+            "name": "Rahul Halder",
+            "year": 1,
+            "gender": "Male",
+            "handle": "hrahul2605"
+        },
+        {
+            "name": "Tushar Raj",
+            "year": 1,
+            "gender": "Male",
+            "handle": "tushar_raj"
+        },
+        {
+            "name": "RAJDEEP GHOSH",
+            "year": 1,
+            "gender": "Male",
+            "handle": "ghoshrajdeep2000"
+        },
+        {
+            "name": "Kamal Pathak",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Kim123"
+        },
+        {
+            "name": "Souvik Sengupta",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Xyline"
+        },
+        {
+            "name": "Rohan Gupta",
+            "year": 1,
+            "gender": "Male",
+            "handle": "blue_edge"
+        },
+        {
+            "name": "Anirban Sikder",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Bani10"
+        },
+        {
+            "name": "Arnab Sen",
+            "year": 1,
+            "gender": "Male",
+            "handle": "arnab1729"
+        },
+        {
+            "name": "Abhishek Shukla",
+            "year": 1,
+            "gender": "Male",
+            "handle": "shukla619"
+        },
+        {
+            "name": "Gaurav Sarkar",
+            "year": 1,
+            "gender": "Male",
+            "handle": "GarryS"
+        },
+        {
+            "name": "Yogesh Shah",
+            "year": 1,
+            "gender": "Male",
+            "handle": "YoRocks7"
+        },
+        {
+            "name": "Kingshuk Barua",
+            "year": 1,
+            "gender": "Male",
+            "handle": "kingshuk_31"
+        },
+        {
+            "name": "Manish Kundu",
+            "year": 1,
+            "gender": "Male",
+            "handle": "manish.17"
+        },
+        {
+            "name": "Sujal Modanwal",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Sujal123"
+        },
+        {
+            "name": "Karmanya Gupta",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Aestroix"
+        },
+        {
+            "name": "Sneham Pal",
+            "year": 1,
+            "gender": "Male",
+            "handle": "sneham2001"
+        },
+        {
+            "name": "Arnab Mandal",
+            "year": 1,
+            "gender": "Male",
+            "handle": "arnab9674"
+        },
+        {
+            "name": "Arnab Sharma",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Cypher09"
+        },
+        {
+            "name": "PRAKASH KUMAR",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Prakashpk"
+        },
+        {
+            "name": "Subhadip Maji",
+            "year": 1,
+            "gender": "Male",
+            "handle": "atheistsoldier"
+        },
+        {
+            "name": "Anish De",
+            "year": 1,
+            "gender": "Male",
+            "handle": "anishde85"
+        },
+        {
+            "name": "Pankhuri Goel",
+            "year": 1,
+            "gender": "Female",
+            "handle": "pankhuri_goel"
+        },
+        {
+            "name": "Snehasish Dhar",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Sdhar"
+        },
+        {
+            "name": "Ritwik Mandal",
+            "year": 1,
+            "gender": "Male",
+            "handle": "ritwikmandalsubho"
+        },
+        {
+            "name": "Dheeraj Pal",
+            "year": 1,
+            "gender": "Male",
+            "handle": "rdxdheeraj"
+        },
+        {
+            "name": "Raushan kumar",
+            "year": 1,
+            "gender": "Male",
+            "handle": "Raushansingh"
+        },
+        {
+            "name": "GANESH MEDEWAR",
+            "year": 1,
+            "gender": "Male",
+            "handle": "sohammedewar"
+        },
+        {
+            "name": "Debojeet Jha",
+            "year": 1,
+            "gender": "Male",
+            "handle": "debojeetjha10"
+        },
+        {
+            "name": "Manisini Chakraborty",
+            "year": 2,
+            "gender": "Female",
+            "handle": "Mochamanchak"
+        },
+        {
+            "name": "Narayanasetti Praneetha",
+            "year": 2,
+            "gender": "Female",
+            "handle": "praneethanarayanasetti@gmail.com"
+        },
+        {
+            "name": "Sadhvi",
+            "year": 2,
+            "gender": "Female",
+            "handle": "shikha20jan"
+        },
+        {
+            "name": "Aparajita Biswas",
+            "year": 2,
+            "gender": "Female",
+            "handle": "appyem2"
+        },
+        {
+            "name": "Ishita Hariramani",
+            "year": 2,
+            "gender": "Female",
+            "handle": "ishita527"
+        },
+        {
+            "name": "Arpita Kumari",
+            "year": 2,
+            "gender": "Female",
+            "handle": "arpitakumari_kol"
+        },
+        {
+            "name": "Soumili Bera",
+            "year": 2,
+            "gender": "Female",
+            "handle": "Iiestsoumili"
+        },
+        {
+            "name": "Sayani Ghosh",
+            "year": 2,
+            "gender": "Female",
+            "handle": "sayani_ghosh"
+        },
+        {
+            "name": "Adrita Chakrabarti",
+            "year": 2,
+            "gender": "Female",
+            "handle": "little_coder22"
+        },
+        {
+            "name": "Sheel Ranjan",
+            "year": 2,
+            "gender": "Male",
+            "handle": "sheelranjan"
+        },
+        {
+            "name": "Nimmada Kishore",
+            "year": 2,
+            "gender": "Male",
+            "handle": "kishorek10"
+        },
+        {
+            "name": "Shivam Biswas",
+            "year": 2,
+            "gender": "Male",
+            "handle": "blackhat_007"
+        },
+        {
+            "name": "Srikanth",
+            "year": 2,
+            "gender": "Male",
+            "handle": "Dynamic_srikanth"
+        },
+        {
+            "name": "Dinkar Kumar",
+            "year": 2,
+            "gender": "Male",
+            "handle": "adinkar"
+        },
+        {
+            "name": "soumyadeep sen",
+            "year": 2,
+            "gender": "Male",
+            "handle": "weistruss"
+        },
+        {
+            "name": "Suhana Kashyap",
+            "year": 3,
+            "gender": "Female",
+            "handle": "Suhu"
+        },
+        {
+            "name": "Jaimini Rana",
+            "year": 3,
+            "gender": "Female",
+            "handle": "Jaiminirana"
+        },
+        {
+            "name": "Sudipti Mandal",
+            "year": 3,
+            "gender": "Female",
+            "handle": "sd_pt"
+        },
+        {
+            "name": "Priyanka Ojha",
+            "year": 3,
+            "gender": "Female",
+            "handle": "bobble211015"
+        },
+        {
+            "name": "Sneha Prasad",
+            "year": 3,
+            "gender": "Female",
+            "handle": "spd_25"
+        },
+        {
+            "name": "Pramit Kumar",
+            "year": 3,
+            "gender": "Male",
+            "handle": "Pramittt"
+        },
+        {
+            "name": "Sunny Tiwari",
+            "year": 3,
+            "gender": "Male",
+            "handle": "prefer_not_to_say"
+        },
+        {
+            "name": "Ankit Kumar Singh",
+            "year": 3,
+            "gender": "Male",
+            "handle": "ANKIT_KUMAR_SINGH"
+        },
+        {
+            "name": "Sayantan Ray",
+            "year": 4,
+            "gender": "Male",
+            "handle": "SyntnRy"
+        },
+        {
+            "name": "Virali Vora",
+            "year": 4,
+            "gender": "Female",
+            "handle": "vivo"
+        },
+        {
+            "name": "Prasun Chail",
+            "year": 4,
+            "gender": "Male",
+            "handle": "pchail"
+        },
+        {
+            "name": "Arijit Saha",
+            "year": 3,
+            "gender": "Male",
+            "handle": "DerUbermensch"
+        },
+        {
+            "name": "Md Azmat Ali",
+            "year": 3,
+            "gender": "Male",
+            "handle": "mdazmat9"
+        },
+        {
+            "name": "Vivek Kumar Maurya",
+            "year": 3,
+            "gender": "Male",
+            "handle": "Manwithavan"
+        },
+        {
+            "name": "Suryansh Gupta",
+            "year": 3,
+            "gender": "Male",
+            "handle": "suri_kumkaran"
+        },
+        {
+            "name": "Indranil Bit",
+            "year": 3,
+            "gender": "Male",
+            "handle": "ibit"
+        }
+    ]
+}
